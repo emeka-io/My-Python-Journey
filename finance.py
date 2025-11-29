@@ -1,15 +1,3 @@
-"""
-Personal Finance Dashboard
-Author: (Your name)
-
-Save as: finance_dashboard.py
-Requirements:
-    - Python 3.8+
-    - matplotlib
-
-Run:
-    python finance_dashboard.py
-"""
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
